@@ -14,4 +14,4 @@ See other interfaces at the [official website](https://www.michaelandreuzza.com/
 
 ## Created by
 
-[Micheal Andreuzza](https://github.com/michael-andreuzza)
+By [Micheal Andreuzza](https://michaelandreuzza.com/) at [Lexington Themes](https://lexingtonthemes.com/)
